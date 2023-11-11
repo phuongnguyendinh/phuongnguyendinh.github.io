@@ -1,22 +1,24 @@
 # main links links
 main:
+ - title: "Resume"
+    url: /cv/
+    
   - title: "Awards"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Freelance Projects"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Leadership Experience"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Volunteer and Service Work"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Research Projects"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+ 
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
