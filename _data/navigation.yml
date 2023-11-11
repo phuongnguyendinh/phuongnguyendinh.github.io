@@ -4,8 +4,8 @@ main:
   - title: "Awards"
     url: /publications/
 
-  # - title: "Freelance"
-  #   url: /talks/    
+  - title: "Freelance"
+    url: /talks/    
 
   # - title: "Leadership"
   #   url: /teaching/    
