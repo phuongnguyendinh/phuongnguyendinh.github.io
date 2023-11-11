@@ -1,13 +1,15 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
+[View my Resume](http://phuongnguyendinh.github.io/files/resume.pdf)
 {% include base_path %}
+
 
 Education
 ======
