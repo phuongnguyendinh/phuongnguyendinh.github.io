@@ -9,14 +9,14 @@ main:
   - title: "Freelance"
     url: /talks/    
 
-  # - title: "Leadership"
-  #   url: /teaching/    
+  - title: "Leadership"
+    url: /teaching/    
     
-  # - title: "Volunteer"
-  #   url: /portfolio/
+  - title: "Volunteer"
+    url: /portfolio/
         
-  # - title: "Research"
-  #   url: /year-archive/
+  - title: "Research"
+    url: /year-archive/
     
 
     
