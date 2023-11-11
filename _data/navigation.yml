@@ -6,16 +6,16 @@ main:
   - title: "Awards"
     url: /publications/
 
-  - title: "Freelance Projects"
+  - title: "Freelance"
     url: /talks/    
 
-  - title: "Leadership Experience"
+  - title: "Leadership"
     url: /teaching/    
     
-  - title: "Volunteer and Service Work"
+  - title: "Volunteer"
     url: /portfolio/
         
-  - title: "Research Projects"
+  - title: "Research"
     url: /year-archive/
     
  
