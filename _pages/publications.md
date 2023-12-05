@@ -10,3 +10,6 @@ author_profile: true
 * Dean’s List
 * International Economics Honor Society
 * Christian Kamm Schollarship
+* OWU Career Connection Award
+* Norman Taylor Scholarship Award
+* Blaine Grimes Summer Grant Award
