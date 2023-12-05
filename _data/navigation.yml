@@ -7,16 +7,16 @@ main:
     url: /awards/
 
   - title: "Freelance"
-    url: /talks/    
+    url: /freelance/    
 
   - title: "Experience"
-    url: /teaching/    
+    url: /experience/    
     
   - title: "Volunteer & Leadership"
-    url: /portfolio/
+    url: /volunteer-leadership/
         
   - title: "Research"
-    url: /year-archive/
+    url: /research/
     
 
     
